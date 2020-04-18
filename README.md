@@ -1,1 +1,1 @@
-# Python-Intermerdiate-Concepts
+# Python-Intermediate-Concepts
